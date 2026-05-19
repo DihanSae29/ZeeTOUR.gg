@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tulis ulang class custom lu di sini */
+.font-orbitron {
+    font-family: 'Orbitron', sans-serif;
+}
+.corner-tl {
+    border-top: 2px solid #a855f7;
+    border-left: 2px solid #a855f7;
+}
+.corner-br {
+    border-bottom: 2px solid #a855f7;
+    border-right: 2px solid #a855f7;
+}
+.glow-purple {
+    text-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
+}
