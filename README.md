@@ -17,7 +17,7 @@ Fitur utama yang dapat diakses publik, menonjolkan kalkulasi otomatis dan intera
 
 | Automated Leaderboard | Interactive Player ID Card |
 |:---:|:---:|
-| <img src="preview-leaderboard.jpeg" width="450" alt="Leaderboard"> | <img src="preview-idcard.jpeg" width="450" alt="ID Card"> |
+| <img src="preview-leaderboard.png" width="450" alt="Leaderboard"> | <img src="preview-idcard.png" width="450" alt="ID Card"> |
 
 <details>
   <summary><b>🔥 Tampilkan Full Capture Landing Page</b></summary>
@@ -32,7 +32,7 @@ Ruang kendali khusus bagi kapten tim untuk mengelola skuad dan mendaftarkan agen
 
 | My Team Overview | Roster Management |
 |:---:|:---:|
-| <img src="preview-myteam.jpeg" width="450" alt="My Team"> | <img src="preview-roster.jpeg" width="450" alt="Roster"> |
+| <img src="preview-myteam.png" width="450" alt="My Team"> | <img src="preview-roster.jpeg" width="450" alt="Roster"> |
 
 ---
 
@@ -41,7 +41,7 @@ Panel kontrol eksklusif bagi administrator untuk mengatur *Master Data* ekosiste
 
 | Master Game Management | Master Team Verification |
 |:---:|:---:|
-| <img src="preview-mastergame.jpg" width="450" alt="Master Game"> | <img src="preview-masterteam.jpeg" width="450" alt="Master Team"> |
+| <img src="preview-mastergame.png" width="450" alt="Master Game"> | <img src="preview-masterteam.png" width="450" alt="Master Team"> |
 
 <details>
   <summary><b>⚙️ Tampilkan Full Capture Master Tournament</b></summary>
