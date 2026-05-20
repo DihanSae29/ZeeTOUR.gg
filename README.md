@@ -1,4 +1,4 @@
-# ⚡ ZeeTOUR.GG - Esports Tournament Management System
+# ⚡ ZeETOUR.GG - Esports Tournament Management System
 
 [![Laravel Version](https://img.shields.io/badge/Laravel-v12.x-red.svg)](https://laravel.com)
 [![PHP Version](https://img.shields.io/badge/PHP-v8.2-blue.svg)](https://php.net)
@@ -27,7 +27,7 @@ Fitur utama yang dapat diakses publik, menonjolkan kalkulasi otomatis dan intera
 
 ---
 
-### 2. Captain HQ (User Dashboard)
+### 2. Captain HQ (User Dashboard) & Public Roster
 Ruang kendali khusus bagi kapten tim untuk mengelola skuad dan mendaftarkan agen ke dalam turnamen.
 
 | My Team Overview | Roster Management |
@@ -67,7 +67,7 @@ Aplikasi ini menerapkan logika pemrograman terstruktur:
 - **Backend:** PHP 8.2 & Laravel 12.x
 - **Frontend:** Tailwind CSS, Vanilla JavaScript, SweetAlert2
 - **Database:** MySQL
-- **Fonts:** Orbitron & Sans-serif
+- **Fonts:** Orbitron, Sans-serif & Rajdhani
 
 ---
 
