@@ -31,9 +31,9 @@
     <nav class="sticky top-0 z-50 border-b border-purple-500/20 bg-[#08090f]/85 backdrop-blur-md">
         <div class="max-w-7xl mx-auto px-8 w-full h-16 flex items-center justify-between">
             
-            {{-- BAGIAN KIRI: Logo ZeETOUR --}}
+            {{-- BAGIAN KIRI: Logo ZeeTOUR --}}
             <a href="{{ route('katalog') }}" class="font-orbitron text-xl font-black tracking-widest text-white no-underline">
-                ZeETOUR<span class="text-purple-400">.</span>GG
+                ZeETOUR<span class="text-purple-400">.GG</span>
             </a>
 
             {{-- BAGIAN KANAN: Menu & Akun --}}

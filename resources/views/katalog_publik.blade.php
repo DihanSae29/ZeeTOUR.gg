@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PUBLIC CATALOG - ZeeTOUR.GG</title>
+    <title>PUBLIC CATALOG - ZeETOUR.GG</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
 </head>
@@ -17,7 +17,7 @@
     {{-- NAVBAR --}}
     <nav class="border-b border-gray-800/80 bg-[#0a0a0f]/80 backdrop-blur-md sticky top-0 z-50 p-6 flex justify-between items-center shadow-[0_4px_30px_rgba(0,0,0,0.5)]">
         <h1 class="font-orbitron text-2xl font-black tracking-widest drop-shadow-[0_0_8px_rgba(255,255,255,0.2)]">
-            ZeeTOUR<span class="text-cyan-500">.GG</span>
+            ZeETOUR<span class="text-cyan-500">.GG</span>
         </h1>
         
         <div>
